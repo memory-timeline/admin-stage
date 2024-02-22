@@ -1,2 +1,0 @@
-# admin-stage
-Admin staging
